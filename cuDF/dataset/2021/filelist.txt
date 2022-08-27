@@ -1,0 +1,12 @@
+https://zenodo.org/record/6325961/files/flightlist_20210101_20210131.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210201_20210228.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210301_20210331.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210401_20210430.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210501_20210530.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210601_20210630.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210701_20210731.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210801_20210831.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20210901_20210930.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20211001_20211031.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20211101_20211130.csv.gz?download=1
+https://zenodo.org/record/6325961/files/flightlist_20211201_20211231.csv.gz?download=1
